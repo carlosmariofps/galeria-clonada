@@ -8,6 +8,13 @@ def comprueba_fondo():
 
 DOCUMENTOS = ["doc", "docx"]
 
+def usuario():
+	pass
+
+def password():
+	pass
+
+
 EXTENSIONES = ["png", "jpg", "jpeg"]
 app = Flask(__name__)
 app.config["UPLOAD_FOLDER"] = './static/archivos'
