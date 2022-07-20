@@ -3,8 +3,7 @@ from werkzeug.utils import secure_filename
 import os
 
 
-def comprueba_fondo():
-	pass
+
 
 DOCUMENTOS = ["doc", "docx"]
 
